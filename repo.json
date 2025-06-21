@@ -43,28 +43,6 @@
   },
   {
   "Author": "Liza Carvelli",
-  "Name": "RetainerTrack",
-  "InternalName": "RetainerTrack",
-  "AssemblyVersion": "6.1",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "retainer",
-    "track"
-  ],
-  "DalamudApiLevel": 12,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "Track who a retainer belongs to.",
-  "AcceptsFeedback": true,
-  "Description": "Temporary Reupload of Liza's RetainerTrack - Keeps track of who a retainer belongs to - if you have seen the retainer's owner locally (if you were on the same party, or if you have seen an item crafted by them).\n\nTracking is unavailable if the crafter isn't the retainer owner (to avoid resellers being attributed incorrectly), and if the tooltip says 'Obtaining Signature'.",
-  "RepoUrl": "https://github.com/VeraNala/RetainerTrack",
-  "IconUrl": "https://plugins.carvel.li/icons/RetainerTrack.png",
-  "DownloadLinkInstall": "https://github.com/VeraNala/RetainerTrack/releases/download/v6.1/RetainerTrack-8.1.zip"
-  },
-  {
-  "Author": "Liza Carvelli",
   "Name": "Fish Notify",
   "InternalName": "FishNotify",
   "AssemblyVersion": "9.0",
