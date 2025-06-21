@@ -14,8 +14,7 @@
   "LoadPriority": 0,
   "IconUrl": "https://plugins.carvel.li/icons/Deliveroo.png",
   "Punchline": "Better Grand Company Deliveries",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/VeraNala/Deliveroo/releases/download/v7.3/latest.zip"
+  "AcceptsFeedback": true
   },
   {
   "Author": "Liza Carvelli",
