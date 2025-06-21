@@ -1,8 +1,18 @@
 [
   {
-  "Name": "Deliveroo",
   "Author": "Liza Carvelli",
+  "Name": "Deliveroo",
   "InternalName": "DeliverooTemp",
+  "AssemblyVersion": "7.3",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Better Grand Company Deliveries",
+  "AcceptsFeedback": true
   "Punchline": "Better Grand Company Deliveries",
   "Description": "Temporary Reupload of Liza's Deliveroo",
   "RepoUrl": "https://github.com/VeraNala/Deliveroo",
@@ -10,38 +20,74 @@
   "DownloadLinkInstall": "https://github.com/VeraNala/Deliveroo/releases/download/v7.3/latest.zip"
   },
   {
-  "Name": "Discard Helper",
   "Author": "Liza Carvelli",
-  "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
-  "Description": "Temporary Reupload of Liza's Discard Helper - Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
-  "RepoUrl": "https://github.com/VeraNala/ARDiscard",
-  "IconUrl": "https://plugins.carvel.li/icons/ARDiscard.png",
+  "Name": "Discard Helper",
+  "InternalName": "ARDiscardTemp",
+  "AssemblyVersion": "8.2",
+  "Description": "Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
   "Tags": [
     "autoretainer",
     "automation",
     "discard",
     "yeet"
-  ]
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://plugins.carvel.li/icons/ARDiscard.png",
+  "Punchline": "Temporary Reupload of Liza's Discard Helper - Discard items automatically via a command or as a post-venture task for AutoRetainer",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/VeraNala/ARDiscard/releases/download/v8.2/latest.zip"
   },
   {
-    "Name": "RetainerTrack",
-    "Author": "Liza Carvelli",
-    "Punchline": "Track who a retainer belongs to.",
-    "Description": "Temporary Reupload of Liza's RetainerTrack - Keeps track of who a retainer belongs to - if you have seen the retainer's owner locally (if you were on the same party, or if you have seen an item crafted by them).\n\nTracking is unavailable if the crafter isn't the retainer owner (to avoid resellers being attributed incorrectly), and if the tooltip says 'Obtaining Signature'.",
-    "RepoUrl": "https://github.com/VeraNala/RetainerTrack",
-    "IconUrl": "https://plugins.carvel.li/icons/RetainerTrack.png",
-    "Tags": ["retainer", "track"]
+  "Author": "Liza Carvelli",
+  "Name": "RetainerTrack",
+  "InternalName": "RetainerTrackTemp",
+  "AssemblyVersion": "6.1",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "retainer",
+    "track"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://plugins.carvel.li/icons/RetainerTrack.png",
+  "Punchline": "Track who a retainer belongs to.",
+  "AcceptsFeedback": true
+  "Description": "Temporary Reupload of Liza's RetainerTrack - Keeps track of who a retainer belongs to - if you have seen the retainer's owner locally (if you were on the same party, or if you have seen an item crafted by them).\n\nTracking is unavailable if the crafter isn't the retainer owner (to avoid resellers being attributed incorrectly), and if the tooltip says 'Obtaining Signature'.",
+  "RepoUrl": "https://github.com/VeraNala/RetainerTrack",
+  "IconUrl": "https://plugins.carvel.li/icons/RetainerTrack.png",
+  "DownloadLinkInstall": "https://github.com/VeraNala/RetainerTrack/releases/download/v6.1/latest.zip"
   },
   {
-    "Author": "Liza Carvelli",
-    "Name": "Fish Notify",
-    "Punchline": "Plays a sound when a fish is caught",
-    "Description": "Temporary Reupload of Liza's FishNotify - Plays a sound when a fish is caught, depending on tug-strength",
-    "InternalName": "FishNotify",
-    "Tags": [
-      "fishing"
-    ],
-    "RepoUrl": "https://github.com/VeraNala/FishNotify",
-    "IconUrl": "https://plugins.carvel.li/icons/FishNotify.png"
+  "Author": "Liza Carvelli",
+  "Name": "Fish Notify",
+  "InternalName": "FishNotifyTemp",
+  "AssemblyVersion": "9.0",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "fishing"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "AcceptsFeedback": true
+  "Punchline": "Plays a sound when a fish is caught",
+  "Description": "Temporary Reupload of Liza's FishNotify - Plays a sound when a fish is caught, depending on tug-strength",
+  "Tags": [
+    "fishing"
+  ],
+  "RepoUrl": "https://github.com/VeraNala/FishNotify",
+  "IconUrl": "https://plugins.carvel.li/icons/FishNotify.png",
+  "DownloadLinkInstall": "https://github.com/VeraNala/FishNotify/releases/download/v9.0/latest.zip"
   }
 ]
