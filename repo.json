@@ -69,9 +69,6 @@
   "InternalName": "FishNotifyTemp",
   "AssemblyVersion": "9.0",
   "ApplicableVersion": "any",
-  "Tags": [
-    "fishing"
-  ],
   "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
