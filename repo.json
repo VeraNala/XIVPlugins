@@ -2,7 +2,7 @@
   {
   "Author": "Liza Carvelli",
   "Name": "Deliveroo",
-  "InternalName": "DeliverooTemp",
+  "InternalName": "Deliveroo",
   "AssemblyVersion": "7.3",
   "Description": "Temporary Reupload of Liza's Deliveroo",
   "ApplicableVersion": "any",
@@ -14,12 +14,13 @@
   "LoadPriority": 0,
   "IconUrl": "https://plugins.carvel.li/icons/Deliveroo.png",
   "Punchline": "Better Grand Company Deliveries",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/VeraNala/Deliveroo/releases/download/v7.3/Deliveroo-7.3.zip"
   },
   {
   "Author": "Liza Carvelli",
   "Name": "Discard Helper",
-  "InternalName": "ARDiscardTemp",
+  "InternalName": "ARDiscard",
   "AssemblyVersion": "8.2",
   "Description": "Temporary Reupload of Liza's Discard Helper - Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
   "ApplicableVersion": "any",
@@ -38,12 +39,12 @@
   "IconUrl": "https://plugins.carvel.li/icons/ARDiscard.png",
   "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
   "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/VeraNala/ARDiscard/releases/download/v8.2/latest.zip"
+  "DownloadLinkInstall": "https://github.com/VeraNala/ARDiscard/releases/download/v8.2/ARDiscard-8.2.zip"
   },
   {
   "Author": "Liza Carvelli",
   "Name": "RetainerTrack",
-  "InternalName": "RetainerTrackTemp",
+  "InternalName": "RetainerTrack",
   "AssemblyVersion": "6.1",
   "ApplicableVersion": "any",
   "Tags": [
@@ -60,12 +61,12 @@
   "Description": "Temporary Reupload of Liza's RetainerTrack - Keeps track of who a retainer belongs to - if you have seen the retainer's owner locally (if you were on the same party, or if you have seen an item crafted by them).\n\nTracking is unavailable if the crafter isn't the retainer owner (to avoid resellers being attributed incorrectly), and if the tooltip says 'Obtaining Signature'.",
   "RepoUrl": "https://github.com/VeraNala/RetainerTrack",
   "IconUrl": "https://plugins.carvel.li/icons/RetainerTrack.png",
-  "DownloadLinkInstall": "https://github.com/VeraNala/RetainerTrack/releases/download/v6.1/latest.zip"
+  "DownloadLinkInstall": "https://github.com/VeraNala/RetainerTrack/releases/download/v6.1/RetainerTrack-8.1.zip"
   },
   {
   "Author": "Liza Carvelli",
   "Name": "Fish Notify",
-  "InternalName": "FishNotifyTemp",
+  "InternalName": "FishNotify",
   "AssemblyVersion": "9.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 12,
@@ -81,6 +82,6 @@
   ],
   "RepoUrl": "https://github.com/VeraNala/FishNotify",
   "IconUrl": "https://plugins.carvel.li/icons/FishNotify.png",
-  "DownloadLinkInstall": "https://github.com/VeraNala/FishNotify/releases/download/v9.0/latest.zip"
+  "DownloadLinkInstall": "https://github.com/VeraNala/FishNotify/releases/download/v9.0/FishNotify-9.0.zip"
   }
 ]
