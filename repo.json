@@ -2,10 +2,11 @@
   {
   "Name": "Deliveroo",
   "Author": "Liza Carvelli",
+  "InternalName": "DeliverooTemp",
   "Punchline": "Better Grand Company Deliveries",
   "Description": "Temporary Reupload of Liza's Deliveroo",
   "RepoUrl": "https://github.com/VeraNala/Deliveroo",
-  "IconUrl": "https://plugins.carvel.li/icons/Deliveroo.png"
+  "IconUrl": "https://plugins.carvel.li/icons/Deliveroo.png",
   "DownloadLinkInstall": "https://github.com/VeraNala/Deliveroo/releases/download/v7.3/latest.zip",
   },
   {
