@@ -12,7 +12,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://plugins.carvel.li/icons/Deliveroo.png",
+  "IconUrl": "https://github.com/VeraNala/Deliveroo/Deliveroo.png",
   "Punchline": "Better Grand Company Deliveries",
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://github.com/VeraNala/Deliveroo/releases/download/v7.3/Deliveroo-7.3.zip"
@@ -24,7 +24,7 @@
   "AssemblyVersion": "8.2",
   "Description": "Temporary Reupload of Liza's Discard Helper - Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
+  "RepoUrl": "https://github.com/VeraNala/ARDiscard",
   "Tags": [
     "autoretainer",
     "automation",
@@ -36,7 +36,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://plugins.carvel.li/icons/ARDiscard.png",
+  "IconUrl": "https://github.com/VeraNala/ARDiscard/ARDiscard.png",
   "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://github.com/VeraNala/ARDiscard/releases/download/v8.2/ARDiscard-8.2.zip"
@@ -59,7 +59,7 @@
     "fishing"
   ],
   "RepoUrl": "https://github.com/VeraNala/FishNotify",
-  "IconUrl": "https://plugins.carvel.li/icons/FishNotify.png",
+  "IconUrl": "https://github.com/VeraNala/FishNotify/FishNotify.png",
   "DownloadLinkInstall": "https://github.com/VeraNala/FishNotify/releases/download/v9.0/FishNotify-9.0.zip"
   }
 ]
