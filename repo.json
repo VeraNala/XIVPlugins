@@ -12,7 +12,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/VeraNala/Deliveroo/Deliveroo.png",
+  "IconUrl": "https://github.com/VeraNala/Deliveroo/Deliveroo/Deliveroo.png",
   "Punchline": "Better Grand Company Deliveries",
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://github.com/VeraNala/Deliveroo/releases/download/v7.3/Deliveroo-7.3.zip"
@@ -36,7 +36,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/VeraNala/ARDiscard/ARDiscard.png",
+  "IconUrl": "https://github.com/VeraNala/ARDiscard/ARDiscard/ARDiscard.png",
   "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://github.com/VeraNala/ARDiscard/releases/download/v8.2/ARDiscard-8.2.zip"
